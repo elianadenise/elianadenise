@@ -6,14 +6,7 @@
 My love for acquiring new knowledge led me to discover the IT world.<br> Although my path in this sector is recent, I have a great interest in web development and testing.
 </p>
 
-<hr>
-<div align="center">
-   <a href="https://www.linkedin.com/in/elianadnavarro/" target="_blank" style='margin-right:4px'>
-    <img align="center" src="https://github.com/elianadenise/en-javascript-openbootcamp/blob/main/ejercicios/ln.png" alt="Linkedin" height="28px" width="28px" />
-  </a>
-</div>
 
-<hr>
 
 <div align="center">
    <img src="https://github.com/elianadenise/portfolio/blob/main/img/logo-html.png" alt="HTML" width="35px" />
