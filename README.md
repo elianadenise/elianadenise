@@ -3,6 +3,7 @@
 </div>
 
 <p align="center">
+   <br><br>
 My love for acquiring new knowledge led me to discover the IT world.<br> Although my path in this sector is recent, I have a great interest in web development and testing.
 </p>
 
