@@ -1,5 +1,5 @@
 <div align="center" width="300">
-   <img align="center" width="100%" src="https://github.com/elianadenise/en-javascript-openbootcamp/blob/main/ejercicios/elianadenise.png" />
+   <!--<img align="center" width="100%" src="https://github.com/elianadenise/en-javascript-openbootcamp/blob/main/ejercicios/elianadenise.png" />-->
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@ My love for acquiring new knowledge led me to discover the IT world.<br> Althoug
    <img src="https://github.com/elianadenise/portfolio/blob/main/img/logo-java.png" alt="Java" width="35px" />
    <img src="https://github.com/elianadenise/portfolio/blob/main/img/logo-js.png" alt="JavaScript" width="35px" />
    <img src="https://github.com/elianadenise/portfolio/blob/main/img/logo-mysql.png" alt="MySQL" width="35px" />
-   <img src="https://github.com/elianadenise/portfolio/blob/main/img/logo-png.png" alt="Python" width="35px" />   
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="35px" />
 </div>
 <hr>
 <div align="center">
